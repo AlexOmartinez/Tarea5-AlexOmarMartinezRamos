@@ -1,0 +1,15 @@
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\bin\Debug\Tarea5-AlexOmarMartinez.exe.config
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\bin\Debug\Tarea5-AlexOmarMartinez.exe
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\bin\Debug\Tarea5-AlexOmarMartinez.pdb
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5-AlexOmarMartinez.csprojAssemblyReference.cache
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5_AlexOmarMartinez.Formularios.FormMenu.resources
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5_AlexOmarMartinez.Properties.Resources.resources
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5-AlexOmarMartinez.csproj.GenerateResource.cache
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5-AlexOmarMartinez.csproj.CoreCompileInputs.cache
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5-AlexOmarMartinez.exe
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5-AlexOmarMartinez.pdb
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5_AlexOmarMartinez.Formularios.FormCantidad_de_Litros_de_Agua.resources
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5_AlexOmarMartinez.Formularios.FormNota_para_Aprovar.resources
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5_AlexOmarMartinez.Formularios.FormPorcentaje_de_Ganancia.resources
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5_AlexOmarMartinez.Formularios.FormFactura.resources
+C:\Users\Alex Martinez\source\repos\Tarea5-AlexOmarMartinez\obj\Debug\Tarea5_AlexOmarMartinez.Formularios.FormPromedio.resources
